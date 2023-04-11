@@ -5,6 +5,7 @@ Thank you for checking out my Github. My Name is Benjamin Ung and I am a graduat
 In my free time, I enjoy playing ultimate frisbee and volleyball with my friends at my local park and recently I have been getting into Deep Rock Galactic (⛏ROCK AND STONE!⛏). I also enjoy playing board games on a chill night out.
 
 If you need to contact me, feel free to email: benjaminung6035@gmail.com.
+
 Linkedin: https://www.linkedin.com/in/benjamin-ung-a9013a1b4/
 
 
