@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! Thank you for checking out my Github. My Name is Benjamin Ung and I am a graduating CS major at Cal Poly Pomona. I currently looking for work in a software development role, but am open to other opportunities as well. I am currently working on the Northrop Collaboration Project (NGCP) UAV team designing and implementing software to detect lost hikers and identify wildfires. On the side, I am working collaboritively on  machine learning project to identify edible and poisonous mushrooms using a convolutional neural network model. 
+
+In my free time, I enjoy playing ultimate frisbee and volleyball with my friends at my local park and recently I have been getting into Deep Rock Galactic (⛏ROCK AND STONE!⛏). I also enjoy playing board games on a chill night out.
+
+If you need to contact me, feel free to email: benjaminung6035@gmail.com.
+Linkedin: https://www.linkedin.com/in/benjamin-ung-a9013a1b4/
+
 
 <!--
 **Benjamin-Ung/Benjamin-Ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
