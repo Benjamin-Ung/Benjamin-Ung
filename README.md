@@ -1,6 +1,6 @@
 ### Hello there! 
 
-Thank you for checking out my Linkedin! My Name is Benjamin Ung, and I am a computer science graduate at Cal Poly Pomona. I am interested in learning more in a software development role and am reading about object-oriented design patterns to further improve my understanding. I am also looking into learning about GitHub Actions and Kubernetes. 
+Thank you for checking out my Github! My Name is Benjamin Ung, and I am a computer science graduate at Cal Poly Pomona. I am interested in learning more in a software development role and am reading about object-oriented design patterns to further improve my understanding. I am also looking into learning about GitHub Actions and Kubernetes. 
 
 The latest project I worked on was the Northrop Collaboration Project (NGCP) where I was a part of the UAV software team. The goal of the plane was to detect lost hikers and identify wildfires while flying autonomously. My responsibilities included testing and implementing long-range communications with the vehicle as well as integrating varying components using ROS2's publisher and subscriber system.
 
