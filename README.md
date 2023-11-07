@@ -1,5 +1,3 @@
-### Hello there! 
-
 - Computer science graduate at Cal Poly Pomona. 
 - Currently looking for a new grad software engineer role 
 - Experienced with Python, Java, and SQL
